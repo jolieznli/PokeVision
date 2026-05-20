@@ -1,0 +1,4 @@
+repository "PokeVisionVR 2026-05-20_11-38-15/PokeVision@1375883012319@cloud"
+  path "/"
+    br "/main"
+    co "/main"
