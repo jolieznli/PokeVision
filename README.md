@@ -5,16 +5,16 @@ Perception-Based Pokémon Discovery in Virtual Reality
 PokeVisionVR is a VR exploration experience developed in Unity for the Meta Quest 3. Instead of relying on traditional controller interactions, the project uses physical movement, head orientation, and peripheral vision as core gameplay mechanics for discovering hidden Pokémon throughout a virtual environment.
 
 ## Demo
-**Prject Report:** [Link Here]
+[Project Report](https://drive.google.com/file/d/1up2KuB6sM5LCSq6d1lWd46dRlgMTUx0n/view?usp=sharing)
 
-**Prject Poster:** [Link Here]
+[Project Poster](https://drive.google.com/file/d/1TTwXw6L7JVS0-t0T0gq_kyCI3jkru1ax/view?usp=sharing)
 
-**Quest Gameplay Demo:** [https:
+[Quest Gameplay Demo](https:
 //youtu.be/v35lmPcKBQY?si=c_
-z829IsXYyCQ8Rf]
+z829IsXYyCQ8Rf)
 
-**Unity Gameplay Demo:** [[Link Here](https://www.youtube.
-com/watch?v=T32IbaHQagwK)]
+[Unity Gameplay Demo](https://www.youtube.
+com/watch?v=T32IbaHQagwK)
 
 ---
 
