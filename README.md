@@ -9,12 +9,9 @@ PokeVisionVR is a VR exploration experience developed in Unity for the Meta Ques
 
 [Project Poster](https://drive.google.com/file/d/1TTwXw6L7JVS0-t0T0gq_kyCI3jkru1ax/view?usp=sharing)
 
-[Quest Gameplay Demo](https:
-//youtu.be/v35lmPcKBQY?si=c_
-z829IsXYyCQ8Rf)
+[Quest Gameplay Demo](https://www.youtube.com/watch?v=v35lmPcKBQY)
 
-[Unity Gameplay Demo](https://www.youtube.
-com/watch?v=T32IbaHQagwK)
+[Unity Gameplay Demo](https://www.youtube.com/watch?v=T32IbaHQagw)
 
 ---
 
