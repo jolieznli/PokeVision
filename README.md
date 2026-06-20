@@ -5,10 +5,16 @@ Perception-Based Pokémon Discovery in Virtual Reality
 PokeVisionVR is a VR exploration experience developed in Unity for the Meta Quest 3. Instead of relying on traditional controller interactions, the project uses physical movement, head orientation, and peripheral vision as core gameplay mechanics for discovering hidden Pokémon throughout a virtual environment.
 
 ## Demo
+**Prject Report:** [Link Here]
 
-**Quest Gameplay Demo:** [Link Here]
+**Prject Poster:** [Link Here]
 
-**Unity Gameplay Demo:** [Link Here]
+**Quest Gameplay Demo:** [https:
+//youtu.be/v35lmPcKBQY?si=c_
+z829IsXYyCQ8Rf]
+
+**Unity Gameplay Demo:** [[Link Here](https://www.youtube.
+com/watch?v=T32IbaHQagwK)]
 
 ---
 
@@ -36,7 +42,7 @@ Charmander begins disguised as a rock hidden within the environment. The system 
 
 | Before | After |
 |---------|--------|
-| ![Charmander Hidden](Assets/charmander_hidden.png) | ![Charmander Revealed](Assets/charmander_revealed.png) |
+| ![Charmander Hidden](Assets/Charmander_hidden.png) | ![Charmander Revealed](Assets/Charmander_revealed.png) |
 
 **Technical Concepts**
 - Positional tracking
